@@ -26,7 +26,7 @@ This repository contains the code associated with the paper **"On-the-fly spectr
 
 ## Usage
 
-To run the code, execute `Test.m`. This script demonstrates the use of KF-OSU with an example that uses one of the concentration matrices listed above. You can adjust the signal-to-noise ratio as well as other parameters, as explained in `Test.m` and `KFOSU.m`.
+To run the code, execute `Test.m`. This script illustrates the use of KF-OSU with an example that uses one of the concentration matrices listed above. You can adjust the signal-to-noise ratio as well as other parameters, as explained in `Test.m` and `KFOSU.m`.
 
 ## Citation
 
